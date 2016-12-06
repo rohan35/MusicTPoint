@@ -2,9 +2,6 @@ package com.example.rohan.musictpoint.utils;
 
 import android.content.Context;
 
-/**
- * Created by anirudh.r on 04/12/16.
- */
 
 public class NetworkUtility {
 
